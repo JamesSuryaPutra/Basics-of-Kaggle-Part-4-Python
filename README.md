@@ -1,10 +1,7 @@
-January 17th, 2024
-Basics of Kaggle
--4th Course: Python-
-
-=======================
+Date: January 17th, 2024
 User: James Surya Putra
-=======================
+
+# Basics of Kaggle: 4th Course - Python
 
 DISCLAIMER:
 - All tutorials and exercises are taken, including questions, submissions, hints, and solutions.
