@@ -36,7 +36,7 @@ builtin functions to help us here.
     [3, 4, 3, 4, 5, 5, 2, 1, 3, 3]
 
 
-help() (tell me more)
+3: help() (tell me more)
 
     # That "ravel" attribute sounds interesting. I'm a big classical music fan.
     help(rolls.ravel)
