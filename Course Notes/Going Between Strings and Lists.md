@@ -1,4 +1,4 @@
-# Going Between Strings and Lists: .split() and .join()
+# Going between strings and lists: .split() and .join()
 str.split() turns a string into a list of smaller strings, breaking on whitespace by default. This is super useful for taking you from one big string to a list of words.
 
     words = claim.split()
