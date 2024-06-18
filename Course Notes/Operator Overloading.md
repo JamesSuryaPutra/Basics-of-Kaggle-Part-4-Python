@@ -1,4 +1,4 @@
-# Operator Overloading
+# Operator overloading
 What's the value of the below expression?
 
     [3, 4, 1, 2, 2, 1] + 10
