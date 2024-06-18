@@ -1,4 +1,4 @@
-# Building Strings with .format()
+# Building strings with .format()
 Python lets us concatenate strings with the + operator.
 
     planet + ', we miss you.'
