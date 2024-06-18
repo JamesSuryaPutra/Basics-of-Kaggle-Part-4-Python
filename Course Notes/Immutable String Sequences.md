@@ -1,4 +1,4 @@
-# Immutable String Sequences
+# Immutable string sequences
 But a major way in which they differ from lists is that they are immutable. We can't modify them.
 
     planet[0] = 'B'
