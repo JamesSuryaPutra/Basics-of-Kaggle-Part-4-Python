@@ -1,4 +1,4 @@
-# Three Tools for Understanding Strange Objects
+# Three tools for understanding strange objects
 In the cell above, we saw that calling a numpy function gave us an "array". We've never seen anything like this before (not in this course anyways). But don't panic: we have three familiar
 builtin functions to help us here.
 
