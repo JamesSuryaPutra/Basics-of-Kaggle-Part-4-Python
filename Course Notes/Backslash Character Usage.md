@@ -1,4 +1,4 @@
-# Backlash Character Usage in Strings
+# Backlash character usage in strings
 The table below summarizes some important uses of the backslash character.
 
     What you type...	What you get	example	print(example)
